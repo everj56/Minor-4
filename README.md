@@ -22,7 +22,7 @@ Use `gcc` to compile the client and server programs:
 ```bash
 gcc -o client client.c
 gcc -o server server.c
-
+```
 ## Usage
 
 Start the server with a specified port number:
